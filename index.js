@@ -18,4 +18,8 @@ const dd = () => {
   return 'dd'
 }
 
+const gg = () => {
+  return 'gg'
+}
+
 module.exports = pixivLogin
