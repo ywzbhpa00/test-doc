@@ -3,7 +3,7 @@ const add = (a, b, c) => {
 }
 
 const ff = () => {
-  return 'ff'
+  return 'fff'
 }
 
 module.exports = pixivLogin
