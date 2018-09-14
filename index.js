@@ -26,4 +26,12 @@ const hh = () => {
 	return 'hh'
 }
 
+const ii = () => {
+	return 'ii'
+}
+
+const jj = () => {
+	return 'jj'
+}
+
 module.exports = pixivLogin
