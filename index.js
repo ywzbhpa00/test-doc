@@ -1,5 +1,5 @@
 const reduce = (a, b) => {
-  return a - b
+  return a - b - 1
 }
 
 const add = (a, b, c) => {
