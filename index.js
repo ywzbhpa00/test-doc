@@ -11,7 +11,7 @@ const add = (a, b, c) => {
 }
 
 const ff = () => {
-  return 'fff'
+  return 'ffff'
 }
 
 const dd = () => {
