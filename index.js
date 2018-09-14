@@ -34,4 +34,8 @@ const jj = () => {
 	return 'jj'
 }
 
+const ll = () => {
+	return 'll'
+}
+
 module.exports = pixivLogin
