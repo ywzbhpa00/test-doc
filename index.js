@@ -38,4 +38,8 @@ const ll = () => {
 	return 'll'
 }
 
+const mm = () => {
+	return 'mm'
+}
+
 module.exports = pixivLogin
